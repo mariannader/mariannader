@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Marian Nader
+- 👀 I’m interested in AI and ML 
+- 🌱 I’m currently learning ML and Ui/Ux Design
