@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marian Nader
--  I'm a student in the Faculty of Computers and Artificial Intelligence Helwan uni,
+-  I'm a student in the Faculty of Computers and Artificial Intelligence,
 - 👀 I’m interested in AI and ML 
 - 🌱 I’m currently learning ML and Ui/Ux Design
 I have :
