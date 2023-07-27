@@ -1,13 +1,17 @@
-- 👋 Hi, I’m Marian Nader
--  I'm a student in the Faculty of Computers and Artificial Intelligence,
+- 👋 Hi
+Welcome to my GitHub Profile
+My name is Marian Nader, and I have a Bachelor of Computer Science 
 
+and I am looking for a Job Opportunity as a Product Designer or UI/UX Designer 
+ 
 I have :
+= 2 Years of Professional Experience in UI/UX Design 
+ [ UX Research - Prototyping (Mobile - Web) - Wireframing - Responsive Design ]
 
-- 2 years in photoshop and illustrator creating & editing & manipulation.
-- very good experience in video editing with simple mobile applications with high-quality 1080p and 720p
-- very good experience with Marketing like mange all social media platforms, and content writing, translation.
-- good experience in programming with Java, C programming languages,
-- good in HTML, CSS, PHP, JavaScript.
-- good at Python programming language (OpenCV, Kivy, NumPy).
-I made some projects like web pages using HTML, CSS, JS, jQuery.
-and desktop app using Java, You Can See It On My GitHub.
+= 2 years of professional experience in Photoshop and Illustrator creating & editing & manipulation
+ [ Social Media Posters - IDs - Business Cards ]
+
+= 2 Years of Professional Experience in Marketing
+ [ Social Media Moderator - Arabic Content Creator - English Content Creator - Translation ]
+
+= 1 Year of experience in video editing with Adobe Premier Pro with high-quality 1080p and 720p
